@@ -1,3 +1,6 @@
+To access: https://flipitb6.netlify.app/
+
+
 # 🎯 FlipIt - Head or Tails Web App
 
 FlipIt is a simple and interactive web application that simulates a coin toss with smooth animations and a modern UI design.  
