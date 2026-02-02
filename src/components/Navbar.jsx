@@ -21,7 +21,7 @@ function Navbar() {
                         </a>
 
                                      <a 
-                        href="https://www.github.com/barath-b6"
+                        href="https://www.github.com/Barath6B"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="GitHub"

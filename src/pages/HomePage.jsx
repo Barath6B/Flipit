@@ -1,6 +1,8 @@
 import flipACoin from "../utils/flipACoin";
 import { useRef, useState, useEffect } from "react";
 import { DotLottieReact } from '@lottiefiles/dotlottie-react';
+import headslogo from "../assets/heads_img.png";
+import tailslogo from "../assets/tails_img.png";
 import "../styles/HomePage.css";
 
 function HomePage() {
@@ -89,7 +91,7 @@ function HomePage() {
             />
           ) : (
             <img className="final-coin"
-              src={result === "heads" ? "/heads_img.png" : "/tails_img.png"}
+              src={result === "heads" ? headslogo : tailslogo }
               alt="Coin Result"
             />
           )}
