@@ -26,7 +26,9 @@ It’s built using React and focuses on providing a fun and clean user experienc
 
 ## 📸 Preview
 
-(Add screenshots or GIFs of your app here)
+<img width="1882" height="971" alt="image" src="https://github.com/user-attachments/assets/543a6eb6-c507-4689-a570-9f34c1c5a5ea" />
+<img width="1898" height="991" alt="image" src="https://github.com/user-attachments/assets/4a7343f4-fa54-4ae7-8dbf-48c7ea319e34" />
+
 
 ---
 
